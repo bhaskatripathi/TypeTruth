@@ -46,5 +46,6 @@ ai_text_detector/
 |--- README.md
 |--- LICENSE.txt
 ```
-
+# Star
+Note: Please star this project if you find it useful.
 
