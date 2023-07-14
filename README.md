@@ -27,7 +27,7 @@ I am going to update the code to work with [Falcon](https://huggingface.co/space
 Either you can use your own OpenAI key or you can use a bearer key available for free. To obtain a bearer key, follow this procedure:
 
 1. Open [this URL](https://platform.openai.com/ai-text-classifier) in your browser.
-2. Right-click and select "Inspect" to open the developer tools.
+2. Enter a 1000-word text, Submit and Right-click and select "Inspect" to open the developer tools.
 3. Click on the "Network" tab.
 4. Look for a POST request under the "Name" column in the list that appears. It should be related to "completions".
 5. Click on the POST request and find the "Authorization" section under the "Headers" tab.
