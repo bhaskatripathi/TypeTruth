@@ -48,4 +48,7 @@ ai_text_detector/
 ```
 # Star
 Note: Please star this project if you find it useful.
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bhaskatripathi/TypeTruth&type=Date)](https://star-history.com/#bhaskatripathi/TypeTruth&Date)
 
