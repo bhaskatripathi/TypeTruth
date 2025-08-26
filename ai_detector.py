@@ -1,1 +1,1 @@
-from .ai_detector import AIDetector, ContentGeneratorChecker
+from TypeTruth.ai_detector import AIDetector, ContentGeneratorChecker

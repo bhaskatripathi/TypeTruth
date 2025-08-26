@@ -16,6 +16,9 @@ setup(
         'pandas',
         'matplotlib',
         'seaborn',
+        'torch',
+        'scikit-learn',
+        'transformers',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',

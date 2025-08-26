@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+TypeTruth/__init__.py
+TypeTruth/aitextdetector.py
+TypeTruth/plotting.py
+TypeTruth.egg-info/PKG-INFO
+TypeTruth.egg-info/SOURCES.txt
+TypeTruth.egg-info/dependency_links.txt
+TypeTruth.egg-info/requires.txt
+TypeTruth.egg-info/top_level.txt
+tests/test_aitextdetector.py
