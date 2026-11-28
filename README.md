@@ -1,3 +1,6 @@
+# 2026 update
+This code is no longer workig, since it was a Python wrapper around OpenAI’s legacy AI Text Classifier (model-detect-v2).  
+- **Current Status:** Broken / obsolete. OpenAI permanently shut down its AI Text Classifier on July 20, 2023 due to low accuracy, and this repository has not been updated since July 2023.
 ## Problem Statement:
 - **Sophisticated language models** like OpenAI's GPT series, Falcon etc have blurred the lines between human-written and AI-generated text.
 - **Distinguishing** between AI and human-generated content has become a complex task with crucial implications:
